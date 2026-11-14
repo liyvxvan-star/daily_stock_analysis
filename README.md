@@ -22,6 +22,12 @@
 
 </div>
 
+## 本 Fork 的贡献 · A 股短线情绪分析
+
+我基于原项目开发了 A 股收盘情绪模块，支持手动生成 SQLite 快照、按实际交易日查询趋势、历史回填和自定义行情适配器。另有基于 682 个交易日的本地研究，涵盖历史分位和相似状态对照。
+
+[贡献说明、指标口径与运行方法](README.sentiment.md) · [可运行的功能分支](https://github.com/liyvxvan-star/daily_stock_analysis/tree/feat/a-share-sentiment-phase1) · [上游 PR #2525](https://github.com/ZhuLinsen/daily_stock_analysis/pull/2525)
+
 <details open>
 <summary><strong>💖 赞助商 (Sponsors)</strong></summary>
 <hr>
